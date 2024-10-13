@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLJ.Plugins.Sensitive.RetrievePost", "VLJ.Plugins.Sensitive.RetrievePost\VLJ.Plugins.Sensitive.RetrievePost.csproj", "{ABF95AA8-B7B8-4C70-B41C-A54222287B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF95AA8-B7B8-4C70-B41C-A54222287B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF95AA8-B7B8-4C70-B41C-A54222287B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF95AA8-B7B8-4C70-B41C-A54222287B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF95AA8-B7B8-4C70-B41C-A54222287B22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C0BEB1-135A-487E-8F2A-B6027CF07AE1}
+	EndGlobalSection
+EndGlobal
